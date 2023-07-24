@@ -65,7 +65,7 @@ export default function NewDocument() {
             <View className="flex-row items-center gap-2">
               <Icon name="image" color="#fff" />
               <Text className="text-sm font-bold text-gray-200">
-                Adicionar foto ou vídeo de capa
+                Adicionar foto do documento
               </Text>
             </View>
           )}
