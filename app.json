@@ -2,6 +2,7 @@
   "expo": {
     "name": "F1Forms",
     "slug": "F1Forms",
+    "scheme": "f1forms",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
